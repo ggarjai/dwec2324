@@ -1,0 +1,57 @@
+name: profesionalismo-moderno
+
+style: |
+  /* Estilos generales */
+  section {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+  }
+
+  /* Estilos para títulos */
+  h1, h2, h3 {
+    color: #007acc;
+  }
+
+  /* Estilos para listas */
+  ul, ol {
+    margin-left: 20px;
+  }
+
+  /* Estilos para enlaces */
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Estilos para diapositivas de código */
+  code {
+    background-color: #f0f0f0;
+    padding: 3px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+    color: #333;
+  }
+
+  /* Estilos para imágenes */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Estilos para diapositivas de bloques de citas */
+  blockquote {
+    border-left: 5px solid #007acc;
+    margin: 0;
+    padding-left: 10px;
+  }
+
+  /* Estilos para notas al pie de página */
+  .footnote {
+    font-size: 80%;
+  }
