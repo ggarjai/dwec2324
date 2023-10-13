@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    width: 50%;
+
+}
+
+h1 {
+    background-color: #009966;
+    color: #fff;
+    padding: 0.2rem 1rem;
+    width: auto;
+}
+
+#equipos {
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 1rem;
+    background-color: rgba(100, 100, 100, 0.5);
+}
+
+#lista-equipos {
+    padding-top: 20px;
+    text-align: justify;
+}
+
+li {
+    list-style-type: none;
+
+    
+}

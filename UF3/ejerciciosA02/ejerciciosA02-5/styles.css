@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    width: 50%;
+}
+
+h1 {
+    background-color: #009966;
+    color: #fff;
+    padding: 2rem;
+    width: auto;
+}
+
+#recetas {
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 1rem;
+}
+
+#acciones {
+    width: 10%;
+    margin: 2rem;
+}
+
+li {
+    padding-top: 0.4rem;
+}
